@@ -1,7 +1,7 @@
-## Contact 1997 🚀
-<img src="https://github.com/pasudo123/SoftwareZeroToALL/blob/main/Image/contact.png" width="150" style="display:flex;" />
+### Contact 1997 🚀
+<img src="https://github.com/pasudo123/SoftwareZeroToALL/blob/main/Image/contact.png" width="150" />
 
-## toy-project 🌼
+### toy-project 🌼
 * [tasty-food-seeker](https://github.com/pasudo123/tasty-food-seeker)
 * [commit-searcher](https://github.com/pasudo123/commit-searcher)
 
