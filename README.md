@@ -1,4 +1,9 @@
-### Contact 1997 🚀
+## Contact 1997 🚀
+<img src="https://github.com/pasudo123/SoftwareZeroToALL/blob/main/Image/contact.png" width="150" style="display:flex;" />
+
+## toy-project 🌼
+* [tasty-food-seeker](https://github.com/pasudo123/tasty-food-seeker)
+* [commit-searcher](https://github.com/pasudo123/commit-searcher)
 
 <!--
 **pasudo123/pasudo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
