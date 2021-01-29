@@ -1,6 +1,6 @@
 ### Contact 1997 🚀
 
-### toy project 🌼
+### Toy-Project 🌼
 * [tasty-food-seeker](https://github.com/pasudo123/tasty-food-seeker)
 * [commit-searcher](https://github.com/pasudo123/commit-searcher)
 
